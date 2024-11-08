@@ -1,10 +1,9 @@
 body {
-	background-image: url(./monument.jpeg);
+	background: #000;
 }
 
 .parent {
   display: grid;
   height: 97vh;
   place-items: center; /* aligns the items vertically and horizontally */
-  border: 1px solid #000;
 }
